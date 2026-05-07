@@ -162,7 +162,7 @@ Example:
 
 # 👨‍💻 Author
 
-**Akash Jana**
+**Akash Kumar Jana**
 
 GitHub:  
 https://github.com/Akashkrjana
